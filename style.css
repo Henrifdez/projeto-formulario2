@@ -103,7 +103,7 @@ body {
     color: #000000c0;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 700px) {
     .container {
         width: 400px;
         height: 100vh;
