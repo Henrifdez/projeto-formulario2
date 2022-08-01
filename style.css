@@ -102,9 +102,6 @@ body {
     border: none;
     outline: 2px solid #290bb1;
 }
-.input-box input: {
-    padding-left: 20px;
-}
 
 .input-box label {
     font-size: 0.95rem;
